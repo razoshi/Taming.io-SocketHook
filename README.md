@@ -1,2 +1,2 @@
 # Taming.io SocketHook
-Hooking the websocket, logging packets
+Script that logging incoming and outgoing packets with raw and decoded data.
